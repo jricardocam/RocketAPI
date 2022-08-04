@@ -1,9 +1,13 @@
 ## RocketAPI 🚀
 
-## Instalar dependencia
+## Instalar dependencias
 ```
 npm install --y
 npm instal express mysql
 ```
 
-## LocalHost300
+## Correr el servidor
+```
+npm start
+localhost3000
+```
